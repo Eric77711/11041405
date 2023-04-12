@@ -1,0 +1,178 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: bisque;
+  margin: 0;
+  padding: 0;
+  font-family: 軟正黑體;
+}
+header {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border:solid 3px pink;
+  font-style: italic;
+  color: black;
+  padding: 10px;
+
+}
+img {
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+}
+.resume {
+  width: 1200px;
+  margin: 0 auto;
+}
+.self {
+  display: flex;
+  border: solid 3px pink;
+  padding: 0;
+}
+.left {
+  flex: 2.5;
+  background-color:rgb(207, 193, 193);
+  padding: 20px;
+}
+.right {
+  flex: 8;
+      background-color: #f9f9f9;
+      padding:0 0 50px 0;
+}
+p {
+  font-size: 50px;
+  padding-left: 20px;
+}
+h2 {
+  font-size: 30px;
+  padding: 15px;
+}
+h3 {
+  font-size: 15px;
+  padding-left: 20px;
+  font-style: italic;
+}
+.left table {
+  width: 90%;
+}
+.left tr td {
+  letter-spacing: 2px;
+  text-align: left;
+  padding-left:25px;
+  border-bottom:3px solid pink;
+  line-height: 30px;
+  font-size: 14px;
+  font-weight: 800;
+}
+.right h4 {
+  letter-spacing: 10px;
+  font-size: 20px;
+  font-weight: 1000;
+  border-bottom: 3px solid #c7c1c1;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.interest {
+  margin: 0;
+  font-size: 15px;
+  line-height: 25px;
+  color:black;
+
+}
+
+.right li { 
+letter-spacing:2px;
+padding: 10px;
+font-size: 20px;
+}
+.contact h5 {
+  font-size: 20px;
+  font-weight: 1000;
+  border-bottom: 3px solid #c7c1c1;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.right table {
+  width: 90%;
+}
+.right td {
+  border-bottom: 1px solid #c7c1c1;
+      text-align: left;
+      line-height: 30px;
+      letter-spacing: 2px;
+      font-weight: 800;
+      font-size: 14px;
+      padding-left:10px;
+      
+}
+.activity h6 {
+  font-size: 20px;
+  font-weight: 1000;
+  border-bottom: 3px solid #c7c1c1;
+  padding-bottom: 5px;
+  margin-left: 10px;
+  margin-bottom: 0;
+}
+.award p {
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 5px;
+  font-weight: 800;
+  text-align: left;
+  padding: 5px;
+  margin-left: 10px;
+}
+footer {
+  background-color: #b96767;
+  color: white;
+  height: 60px;
+}
+footer h5 {
+  text-align: center;
+  font-size: 25px;
+  padding: 15px;
+}
+.SKILL {
+  padding:5px;
+  background-color: #b96767;
+}
+.SKILL h3{
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  margin-left: 0px;
+  border-bottom:solid 2px black;
+}
+.ability {
+  font-size: 20px;
+  padding: 5px;
+  line-height: 25px;
+
+}
+.hard {
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 800;
+}
+iframe {
+  padding: 20px;
+  margin-left: 200px;
+  height: 500px;
+}
+.award h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+
+
+
+
+
+
+ 
